@@ -10,6 +10,7 @@ I specialize in process automation, AI Agents and predictive modeling, and busin
 - Developing machine learning models to predict digital campaign success across markets
 - Designing real-time analytics dashboards and AI agents for decision-making
 - Building forecasting models to optimize marketing investments
+- Bulding AI Agents 
 
 ---
 
