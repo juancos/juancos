@@ -19,6 +19,7 @@ I specialize in process automation, AI Agents and predictive modeling, and busin
 - **Data Tools**: Pandas, NumPy, Scikit-Learn, TensorFlow, Power BI, Tableau
 - **Databases**: PostgreSQL, MySQL, BigQuery
 - **Cloud & DevOps**: AWS (S3, Lambda, SageMaker), Git, Docker
+- AI Agents Frameworks: LlamaIndex, Langchain, LangGraph
 - **Others**: FastAPI, Streamlit, Data Crawling, NLP, GitHub Actions
 
 ---
