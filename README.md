@@ -2,7 +2,7 @@
 
 🎯 **Senior Data Analyst | AI Strategist | ML Enthusiast**
 
-I specialize in process automation, predictive modeling, and business optimization using **Machine Learning**, **Big Data**, and **AI agents**. Currently working at **Spotify**, I've led initiatives that reduced CPA by 16% and boosted conversion rates by 18%.
+I specialize in process automation, AI Agents and predictive modeling, and business optimization using **Machine Learning**, **Big Data**, and **AI agents**. Currently working at **Spotify**, I've led initiatives that reduced CPA by 16% and boosted conversion rates by 18%.
 
 ---
 
